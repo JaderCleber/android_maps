@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<!-- Single menu item 
+		 Set id, icon and Title for each menu item
+	-->
+    <item android:id="@+id/atualizar"
+    	  android:title="Atualizar" />
+    <item android:id="@+id/pontos"
+    	  android:title="Aumentar Campo de Visão" />
+    <item android:id="@+id/limpar"
+          android:title="Limpar Rota" />
+    <item android:id="@+id/salvarLocal"
+          android:title="Salvar Onde Estou" />
+    <!--item android:id="@+id/exibir_favoritos"
+          android:title="Exibir Meus Locais" />
+    <item android:id="@+id/menu_delete"
+    	  android:icon="@drawable/icon_delete"
+          android:title="Delete" />  
+    <item android:id="@+id/menu_preferences"
+    	  android:icon="@drawable/icon_preferences"
+          android:title="Preferences" /--> 
+</menu>

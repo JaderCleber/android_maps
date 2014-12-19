@@ -1,0 +1,137 @@
+-3.091402-60.009274
+DB
+-3.085326-60.025845
+DB
+-3.120533-59.980842
+DB
+-3.075629-59.957152
+DB
+-3.030536-59.977381
+DB
+-3.089651-60.056693
+DB
+-3.003111-59.980775
+DB
+-3.089935-60.058018
+DB
+-3.068050-60.095520
+DB
+-3.036052-60.000770
+DB
+-3.0305362-59.9773801
+DB
+-3.0878749-60.0074905
+DB
+-3.0878749-60.0084908
+DB
+-3.105379-60.011047
+Carrefour
+-3.132939-60.023517
+Carrefour
+-3.132757-60.022943
+Carrefour
+-3.133153-60.024053
+Carrefour
+-3.094077-60.021944
+Carrefour
+-3.085846-60.070439
+Carrefour
+-3.092824-60.049878
+Carrefour
+-3.079097-60.024368
+Carrefour
+-3.112887-60.023580
+Carrefour
+-3.079111-60.024367
+Carrefour
+-3.092947-60.051484
+Carrefour
+-3.042510-60.009398
+Atack
+-3.121601-60.010752
+Atack
+-3.120861-60.011774
+Mercadinho Aguiar
+-3.119854-60.009843
+Supermercados Bastos
+-3.124235-60.011710
+Mercadinho União
+-3.126425-60.010076
+Bom Preço
+-3.111430-60.015047
+Emporium Roma
+-3.122911-60.020712
+Supermercado Fuji
+-3.117482-60.017715
+A F Lima Mercadoria
+-3.115896-60.004369
+Supermercados Nova Aliança
+-3.136465-60.012050
+Makro
+-3.117368-60.020781
+Mercadinho Ayrão
+-3.135908-60.017329
+Pare Leve Ltda
+-3.107969-60.015956
+Pareleve Adrianópolis Manaus
+-3.118981-60.025222
+Mercadinho Santo Expedito
+-3.130351-59.991657
+Mercadinho SP Baratão da Carne
+-3.113059
+-60.026647
+Empório Santa Fé
+-3.125915
+-60.027162
+Casa de Embalagens Campina
+-3.138479
+-60.008446
+Loja Bailo
+-3.139325
+-60.008156
+T.N. Farias Comércio de Mercadorias
+-3.139783
+-60.001952
+Mercadinho Terra boa
+-3.133969
+-59.996013
+Supermercado da Família
+-3.128020
+-60.029203
+Mercado Ossami®
+-3.132972
+-59.993597
+Mercadinho Pantanal
+-3.113236
+-59.991999
+Mercadinho Joelma
+-3.135190
+-60.026455
+Supermercado Vitória
+-3.102741
+-59.990593
+Supermercados Resende
+-3.104026
+-59.993125
+Mercadinho e Açougue Moraes
+-3.100834
+-59.989820
+Mercadinho Vale do Sol
+-3.100658
+-59.990974
+Mercadinho Fortaleza
+-3.102094
+-59.986264
+MercadinhoPanificadora e Açougue Diuliane
+-3.069739
+-60.005889
+Supermercado Veneza
+-3.106893
+-60.046882
+Supermercado Robson
+-3.090512
+-59.985995
+Mercadinho Adão e Eva
+-3.070798
+-60.016049
+Pareleve Flores Manaus

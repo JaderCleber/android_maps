@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="DefaultLocale">
+        <ignore path="src/com/mobilidade/ExibirMapa.java" />
+    </issue>
+    <issue id="NewApi">
+        <ignore path="src/com/mobilidade/ExibirMapa.java" />
+        <ignore path="src/com/mobilidade/Main.java" />
+    </issue>
+</lint>
